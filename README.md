@@ -18,7 +18,7 @@ Total number of dependencies:
 - If scope is limited to "production":
  - 3 direct dependencies.
  - 20 transitive dependencies.
- - 18 vulnerabilities.
+ - 18 vulnerabilities.       
 
 #### Vulnerable Call Chain
 This project does not have a vulnerable call chain. If you would like to test this feature, feel free to create a vulnerable call chain by modifying index.js (and adding the necessary dependencies in `package.json`) and send us a PR.
